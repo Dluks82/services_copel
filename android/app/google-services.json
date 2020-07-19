@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "213154169657",
+    "firebase_url": "https://services-copel.firebaseio.com",
+    "project_id": "services-copel",
+    "storage_bucket": "services-copel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213154169657:android:64ab7d8b92132d02a55ee8",
+        "android_client_info": {
+          "package_name": "br.com.dluks82.services_copel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213154169657-jbnot1q2aqoib2sf45olb3ibeef5fvja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVkNMkf-52BzXw4gY3xRrEH5-vfocdrew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213154169657-jbnot1q2aqoib2sf45olb3ibeef5fvja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
